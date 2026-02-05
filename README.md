@@ -2,6 +2,9 @@
 
 Automated UI tests using Selenium WebDriver and NUnit targeting .NET 10. The suite exercises the "Alerts" scenarios on https://uitestingplayground.com and follows the Page Object Model for maintainability.
 
+**Purpose:**
+This project demonstrates best practices in **UI test automation** using **Visual Studio**, **Selenium**, and **NUnit**. It is designed for academic assignments and can be extended for professional web application testing projects.
+
 ## Key files and folders
 
 - `AssignmentProject.Tests` — NUnit test classes (e.g. `AlertsTests.cs`).
